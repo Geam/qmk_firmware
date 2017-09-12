@@ -1,2 +1,1 @@
-# The Default Planck Layout
-
+# Geam's plank layout
